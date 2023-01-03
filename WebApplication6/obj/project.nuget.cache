@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XB8fgWzrufb9/q1iRvH9Z5KdfQjRURb4VZC8tYFw7LaERt/FTGqXtx0J5+RThzwbuse9i1b0/TENHvDqAS6yMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IvanBiljan\\Documents\\Repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\awssdk.core\\3.7.103.8\\awssdk.core.3.7.103.8.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.16\\awssdk.dynamodbv2.3.7.101.16.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\IvanBiljan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
